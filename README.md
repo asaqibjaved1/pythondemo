@@ -1,7 +1,7 @@
 # pythondemo
-first python file
+First python file
 <br>
-starting learning python
+Start learning python
 <br>
 Author Saqib Javed
 
