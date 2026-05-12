@@ -1,4 +1,6 @@
 # Python Learning
+<h2> Python Fundamentals </h2>
+<br>
 1. Python Variables
 <br>
 2. Python Operators
@@ -10,6 +12,8 @@
 5. Python User Inputs
 <br>
 6. Python First Exercise
-Author Saqib Javed
+<br>
+
+<h5>Author Saqib Javed </h5>
 
 
