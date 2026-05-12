@@ -13,6 +13,14 @@
 <br>
 6. Python First Exercise
 <br>
+7. Python Strings
+<br>
+6. Python Indexing and slicing
+<br>
+6. Python conditional statments
+<br>
+6. Python second Exercise
+<br>
 
 <h5>Author Saqib Javed </h5>
 
