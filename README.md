@@ -15,11 +15,11 @@
 <br>
 7. Python Strings
 <br>
-6. Python Indexing and slicing
+8. Python Indexing and slicing
 <br>
-6. Python conditional statments
+9. Python conditional statments
 <br>
-6. Python second Exercise
+10. Python second Exercise
 <br>
 
 <h5>Author Saqib Javed </h5>
