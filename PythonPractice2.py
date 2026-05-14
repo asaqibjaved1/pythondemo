@@ -27,3 +27,5 @@ if(a % 7 == 0):
     print("It is multiple of 7: ")
 else:
     print("It is not muultiple of 7 :")
+
+    print("End of program")
