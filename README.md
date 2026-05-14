@@ -29,6 +29,8 @@
 <br>
 14. Python Tuple and tuple methods
 <br>
+15. Python List and tuple Exercise
+<br>
 
 <h5>Author Saqib Javed </h5>
 
