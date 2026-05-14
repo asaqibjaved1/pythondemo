@@ -27,6 +27,8 @@
 <br>
 13. Python List Methods
 <br>
+14. Python Tuple and tuple methods
+<br>
 
 <h5>Author Saqib Javed </h5>
 
