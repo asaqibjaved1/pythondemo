@@ -21,6 +21,12 @@
 <br>
 10. Python second Exercise
 <br>
+11. Python List
+<br>
+12. Python List Slicing
+<br>
+13. Python List Methods
+<br>
 
 <h5>Author Saqib Javed </h5>
 
