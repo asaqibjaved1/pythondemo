@@ -21,18 +21,19 @@
 <br>
 10. Python second Exercise
 <br>
-11. Python List
+11. Python List (Syntax)-> list1 = []
 <br>
 12. Python List Slicing
 <br>
 13. Python List Methods
 <br>
-14. Python Tuple and tuple methods
+14. Python Tuple and tuple methods (Syntax)-> tuple =()
 <br>
 15. Python List and tuple Exercise
 <br>
-16. Python Dictionary
+16. Python Dictionary (Syntax)-> dict = {key : value}
 <br>
+17. Python Set (Syntax)-> set = {val, val}
 
 <h5>Author Saqib Javed </h5>
 
