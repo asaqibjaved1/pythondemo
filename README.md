@@ -11,7 +11,7 @@
 <br>
 5. Python User Inputs
 <br>
-6. Python First Exercise
+6. Python First Exercise 
 <br>
 7. Python Strings
 <br>
@@ -34,6 +34,9 @@
 16. Python Dictionary (Syntax)-> dict = {key : value}
 <br>
 17. Python Set (Syntax)-> set = {val, val}
+<br>
+18. Python Exercise 4
+<br>
 
 <h5>Author Saqib Javed </h5>
 
