@@ -37,6 +37,14 @@
 <br>
 18. Python Exercise 4
 <br>
+19. Python while Loop
+<br>
+20. Python for Loop
+<br>
+21. Python range() function
+<br>
+20. Python pass statement
+<br>
 
 <h5>Author Saqib Javed </h5>
 
